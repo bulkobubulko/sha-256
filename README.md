@@ -80,4 +80,4 @@ All done!
     ```
 
 ## Example
-![Alt text](example-1.JPG)
+![Alt text](example.JPG)
