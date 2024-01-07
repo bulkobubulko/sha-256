@@ -54,11 +54,11 @@ How it works:
 
     Move the hash values down one.  So that we loose the last one and leave space inside a. Set a to T1+T2, and add T1 to e. 
 
-    Repeat steps 8 and 9 for every single word in the message schedule.
+    Repeat the above steps for every single word in the message schedule.
 
     Get the initial hash values we started with (a-h) and add on the end results of the compression.
 
-7) Repeat the process for every single message block. Where the initaial values are the end values of the previous block.
+7) Repeat the process for every single message block. Where the initial values are the end values of the previous block.
 8) Convert it to hexadecimal representation.
 
 All done!
